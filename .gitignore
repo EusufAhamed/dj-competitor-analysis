@@ -1,0 +1,11 @@
+### Byte-compiled / optimized / DLL files ###
+__pycache__/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+
+### Environments ###
+competitorEnv
+src/db.sqlite3

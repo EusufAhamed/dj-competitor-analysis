@@ -1,0 +1,6 @@
+/api/v1.0/competitor-analysis/post-local-finder
+/api/v1.0/competitor-analysis/get-local-finder
+/api/v1.0/competitor-analysis/post-business-info
+/api/v1.0/competitor-analysis/get-business-info
+/api/v1.0/competitor-analysis/post-reviews
+/api/v1.0/competitor-analysis/get-reviews
